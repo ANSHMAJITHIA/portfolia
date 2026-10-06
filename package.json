@@ -1,0 +1,11 @@
+{
+  "name": "portfolio-ecosystem",
+  "version": "1.0.0",
+  "description": "Portfolio Full-Stack Ecosystem — React Frontend + Node/Express Backend + Custom CMS",
+  "scripts": {
+    "start:backend": "cd backend && npm start",
+    "dev:backend": "cd backend && npm run dev",
+    "start:frontend": "cd frontend && npm run dev",
+    "build:frontend": "cd frontend && npm run build"
+  }
+}
